@@ -1,15 +1,1 @@
-#theme: jekyll-theme-leap-day
-#site settings
-title: CX Blog
-SEOTitle: 大娃的博客 | CX Blog
-header-img:img/post-bgrwg.jpg
-email: caoxue0210@foxmail.com
-description :“每个胜利背后都有许多尝试”
-keyword :"CX,CX Blog,大娃的博客，caoxue0210"
-url :"http://caoxue0210.github.io"
-baseurl :""
-
-#sidebar settings
-sidebar: true
-sidebar-about-description:"It takes a great man <br> to be a good instener"
-sidebar-avatar: img/avatar-by.JPG
+theme: jekyll-theme-leap-day
